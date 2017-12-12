@@ -1,0 +1,6 @@
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\bin\Debug\MethodsDelegatesFieldsDemo.exe.config
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\bin\Debug\MethodsDelegatesFieldsDemo.exe
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\bin\Debug\MethodsDelegatesFieldsDemo.pdb
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\obj\Debug\MethodsDelegatesFieldsDemo.csprojResolveAssemblyReference.cache
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\obj\Debug\MethodsDelegatesFieldsDemo.exe
+E:\stuff\MethodsDelegatesFieldsDemo\MethodsDelegatesFieldsDemo\obj\Debug\MethodsDelegatesFieldsDemo.pdb
